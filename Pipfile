@@ -19,7 +19,7 @@ flake8-commas = "*"
 flake8-quotes = "*"
 pep8-naming = "*"
 types-requests = "*"
-setuptools = "<60"
+setuptools = "<66"
 
 [packages]
 pyopenssl = "~=19.0"
